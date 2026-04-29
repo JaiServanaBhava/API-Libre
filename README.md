@@ -1,6 +1,24 @@
-# Try Public APIs for free
-The Public APIs repository is manually curated by community members like you and folks working at JRV Digital Solutions, It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.
+<div align="center">
+  <div style="background: linear-gradient(90deg, #FF9933, #00d4ff, #138808); height: 5px; box-shadow: 0 0 15px #00d4ff; border-radius: 10px;"></div>
+  
+  <br />
+  
+  <h1>🛰️ API-LIBRE</h1>
+  <p><i>The Infinite Ether of Free Public Endpoints(API) & Neural Logic</i></p>
 
+  <div style="display: flex; justify-content: center; gap: 8px; margin-top: 15px;">
+    <img src="https://img.shields.io/badge/Logic-Vedic--Futurist-FF9933?style=flat-square" />
+    <img src="https://img.shields.io/badge/Status-Alpha--Dev-white?style=flat-square" />
+    <img src="https://img.shields.io/badge/Access-Public-00d4ff?style=flat-square" />
+  </div>
+</div>
+
+<br />
+
+## 📖 About Public APIs
+This repository is a manually curated treasure trove of public APIs, maintained by the community and experts at **JRV Digital Solutions**. Whether you are building a startup or a student project, this is your primary source for verified endpoints across every domain.
+
+---
 <br >
 
 <p>
